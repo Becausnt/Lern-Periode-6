@@ -8,4 +8,6 @@ In dieser LP möchte ich:
 
 ## 23/08/2024
 ### Arbeitspakete
-- [ ] Hi
+- [ ] M320 Auftrag 4 fertig machen
+- [ ] M320 Auftrag 5
+- [ ] M320 Auftrag 6
