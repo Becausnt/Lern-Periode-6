@@ -14,6 +14,8 @@ In dieser LP möchte ich:
 
 ## 30/08/2024
 ### Arbeitspakete
-- [ ] M231 1713 Passwoerter
-- [ ] Ideen für ein mögliches Projekt sammeln
-- [ ] Projekt beginnen
+- [x] M231 1713 Passwoerter
+- [x] Ideen für ein mögliches Projekt sammeln
+- [x] Projekt beginnen
+
+Ich habe einige Ideen gesammelt, aber ich bin mir noch nicht sicher ob diese noch zu ambitioniert sind. Egal, ich finde es heraus und habe mal angefangen. 
