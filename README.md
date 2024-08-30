@@ -11,3 +11,9 @@ In dieser LP möchte ich:
 - [x] M320 Auftrag 4 fertig machen
 - [x] M320 Auftrag 5
 - [x] M320 Auftrag 6
+
+## 30/08/2024
+### Arbeitspakete
+- [ ] M231 1713 Passwoerter
+- [ ] Ideen für ein mögliches Projekt sammeln
+- [ ] Projekt beginnen
