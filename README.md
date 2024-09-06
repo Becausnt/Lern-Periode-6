@@ -19,3 +19,9 @@ In dieser LP möchte ich:
 - [x] Projekt beginnen
 
 Ich habe einige Ideen gesammelt, aber ich bin mir noch nicht sicher ob diese noch zu ambitioniert sind. Egal, ich finde es heraus und habe mal angefangen. 
+
+## 06/09/2024
+### Arbeitspakete
+- [ ] Mit Cezar OOP repetieren
+- [ ] M231 Bedrohungskategorien Repetieren
+- [ ] Am Projekt weiterarbeiten. 
