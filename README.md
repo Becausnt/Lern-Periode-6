@@ -22,6 +22,13 @@ Ich habe einige Ideen gesammelt, aber ich bin mir noch nicht sicher ob diese noc
 
 ## 06/09/2024
 ### Arbeitspakete
-- [ ] Mit Cezar OOP repetieren
-- [ ] M231 Bedrohungskategorien Repetieren
-- [ ] Am Projekt weiterarbeiten. 
+- [x] Mit Cezar OOP repetieren
+- [x] M231 Bedrohungskategorien Repetieren
+- [x] Am Projekt weiterarbeiten.
+
+## 06/09/2024
+### Arbeitspakete
+- [ ] M320 OOP - Polymorphismus mit Cezar repetiert
+- [ ] M320 OOP - OBA verfeinert
+- [ ] M320 OOP - Tests und Dokumentation 
+
