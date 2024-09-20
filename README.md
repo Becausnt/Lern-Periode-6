@@ -4,6 +4,7 @@
 In dieser LP möchte ich:
 - Sichergehen dass ich bei den Modulen nicht hinter den Zeitplan der Module falle.
 - Ein Projekt starten welches es mir ermöglicht meine CySec-Kentnisse zu erweitern.
+    - (Ich habe ^^^ auf meine Freizeit ausgelagert, um mich hier ein wenig mehr auf die Module zu konzentrieren.)
 
 
 ## 23/08/2024
@@ -28,7 +29,13 @@ Ich habe einige Ideen gesammelt, aber ich bin mir noch nicht sicher ob diese noc
 
 ## 06/09/2024
 ### Arbeitspakete
-- [ ] M320 OOP - Polymorphismus mit Cezar repetiert
-- [ ] M320 OOP - OBA verfeinert
-- [ ] M320 OOP - Tests und Dokumentation 
+- [x] M320 OOP - Polymorphismus mit Cezar repetiert
+- [x] M320 OOP - OBA verfeinert
+- [x] M320 OOP - Tests und Dokumentation
+
+## 06/09/2024
+### Arbeitspakete
+- [ ] M320 OOP - 4217 Unit Testing
+- [ ] M259 ML  - 1651 sklearn on your own
+- [ ] M259 Ml  - 1652 Weitere Algorithmen
 
