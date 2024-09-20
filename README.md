@@ -37,5 +37,5 @@ Ich habe einige Ideen gesammelt, aber ich bin mir noch nicht sicher ob diese noc
 ### Arbeitspakete
 - [ ] M320 OOP - 4217 Unit Testing
 - [ ] M259 ML  - 1651 sklearn on your own
-- [ ] M259 Ml  - 1652 Weitere Algorithmen
+- [ ] M259 ML  - 1652 Weitere Algorithmen
 
