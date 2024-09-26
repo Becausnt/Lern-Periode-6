@@ -54,4 +54,12 @@ Ich habe einige Ideen gesammelt, aber ich bin mir noch nicht sicher ob diese noc
 Bei Unit Testing konnte ich kein Projekt importieren, ich habe dann aber bald gemerkt, dass es funktioniert wenn man die .exe und .dll Dateien des Projektes importiert. Um Änderungen am Code des Original-Projektes zu speichern, muss man dieses einfach nochmals ausführen, was zu einer aktualisierung der .exe und .dll Dateien führt. Diese werden im MSTest-Projekt automatisch neu geladen.
 
 ### Reflektion
-Ich habe die gesetzten Arbeitsaufträge gut erfüllt und bin auf kaum Schwierigkeiten gestossen. Ich habe einiges gelernt und die ganze ML-Sache ist nun auch schon ein wenig Intiutiver. Beim Modul 320 OOP habe nun HZ4 abgeschlossen und bin somit 1 HZ voraus. (HZ4 war aber nur dieser eine Auftrag den ich jetzt gemacht habe) Die beiden Aufträge vom Modul 259 habe ich heute auch fertig gelöst. Am Auftrag 1651 hatte ich am längsten, da ich dort auch wirklich noch selbst mit Parametern und Verschiedenen Input-Daten experimentiert habe. Mein bestes Ergebniss kam auf 80% genauigkeit (Voraussage mit Titanik-Datensatz)
+Ich habe die gesetzten Arbeitsaufträge gut erfüllt und bin auf kaum Schwierigkeiten gestossen. Ich habe einiges gelernt und die ganze ML-Sache ist nun auch schon ein wenig Intiutiver. Beim Modul 320 OOP habe nun HZ4 abgeschlossen und bin somit 1 HZ voraus. (HZ4 war aber nur dieser eine Auftrag den ich jetzt gemacht habe) Die beiden Aufträge vom Modul 259 habe ich heute auch fertig gelöst. Am Auftrag 1651 hatte ich am längsten, da ich dort auch wirklich noch selbst mit Parametern und Verschiedenen Input-Daten experimentiert habe. Mein bestes Ergebnis kam auf 80% genauigkeit (Voraussage mit Titanik-Datensatz)
+
+## 27/09/2024
+### Arbeitspakete
+- [ ] M320 OOP - Lernauftrag ZombieSurvival Spieler und Movement programmieren
+- [ ] M320 OOP - ZS: Hindernisse und Collision detection Programmieren (Spieler kann nicht auf Felder, an denen Hindernisse stehen
+- [ ] M320 OOP - ZS: Mine die ausgelöst wird wenn der Spieler eine bestimmte distanz entfernt ist und Ihm dann Schaden zufügt.
+- [ ] M320 OOP - ZS: Zombie der in einer geraden Linie auf den Spieler zuläuft.
+- [ ] M320 OOP - ZS: Einen Weg finden, wie der Spieler den Zombie besiegen kann + implementation
