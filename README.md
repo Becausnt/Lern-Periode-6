@@ -61,7 +61,7 @@ Ich habe die gesetzten Arbeitsaufträge gut erfüllt und bin auf kaum Schwierigk
 - [x] M320 OOP - Lernauftrag ZombieSurvival Spieler und Movement programmieren
 - [x] M320 OOP - ZS: Hindernisse und Collision detection Programmieren (Spieler kann nicht auf Felder, an denen Hindernisse stehen
 - [x] M320 OOP - ZS: Mine die ausgelöst wird wenn der Spieler eine bestimmte distanz entfernt ist und Ihm dann Schaden zufügt.
-- [x] M320 OOP - ZS: Zombie der in auf den Spieler zuläuft.
+- [x] M320 OOP - ZS: Zombie der auf den Spieler zuläuft.
 - [x] M320 OOP - ZS: Einen Weg finden, wie der Spieler den Zombie besiegen kann + implementation
 
 ### Gelerntes
