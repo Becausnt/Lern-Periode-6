@@ -77,17 +77,17 @@ Ich habe die gesetzten Arbeitsaufträge gut erfüllt und bin auf kaum Schwierigk
                             ein Coordinates attribut. Die Elemente befinden sich nicht wirklich in dem Array, sondern
                             sie werden mit Ihren Coordinaten in den Array gezeichnet. `_buffer[element.Coordinates.y, element.Coordinates.x] = element.Symbol;`
 - Collision detection -> Um in meinem Spiel-Array (_buffer) Kollisionen zu erkennen habe ich eine Liste erstellt, in 
-                         dem ich alle Koordinaten neben dem Spieler erkenne. Das ganze ist [#2D-direction](hier) zu finden.
+                         dem ich alle Koordinaten neben dem Spieler erkenne. Das ganze ist [hier](#collision-detection) zu finden.
 
 - Zombie in richtung Spieler bewegen -> Um den Zombie in Richtung Spieler zu bewegen, habe ich ihm ein `_target`-Element
                                         zur verfügung gestellt. Er greift dann auf die Koordinaten seines Ziels zu und
-                                        verwendet [#2D-direction](diesen) Code-Block um sich ein Feld in dessen Richtung zu bewegen.
+                                        verwendet [diesen](#2D-direction) Code-Block um sich ein Feld in dessen Richtung zu bewegen.
 - Console.ReadKey() -> Es ist möglich auf eine einzelne Taste zu warten und diese als Input zu verwenden anstatt einen String.
                        `ConsoleKeyInfo key = Console.ReadKey();` um den Input als Char zu erhalten kann man folgenderweise darauf
                        zugreifen: `_world.HandlePlayerInputs(key.KeyChar);`
 
 ### Schwierigkeiten
-Ich hatte ein kleines Problem beim Debugging des Spieler Inputs. Die Bewegungen des Spielers stimmten nicht mit meinen WASD-Inputs überein. Dies liegt vermutlich an der verworrenheit meines [#movement](Movement-Code-Blocks) und daran, dass "oben" im Array 0 ist und ich deshalb von der X-Koordinate Abziehen muss um den Spieler nach "oben" zu bewegen. Dies ist aber bei der Y-Koordinate nicht so.
+Ich hatte ein kleines Problem beim Debugging des Spieler Inputs. Die Bewegungen des Spielers stimmten nicht mit meinen WASD-Inputs überein. Dies liegt vermutlich an der verworrenheit meines [Movement-Code-Blocks](#movement) und daran, dass "oben" im Array 0 ist und ich deshalb von der X-Koordinate Abziehen muss um den Spieler nach "oben" zu bewegen. Dies ist aber bei der Y-Koordinate nicht so.
 Zudem hatte ich ein Problem, bei dem der Game-Over-Screen doppelt angezeigt wurde. Das habe ich dann aber durch eine zusätzliche Variable `_isLastPrintBeforeGameOver` gelöst. Es gab noch weitere komische Fälle, bei denen die Überprüfung des Nachbarfelders nicht klappte, aber mit der aktuellen Lösung ist dies kein Problem mehr.
 
 ### Reflektion
